@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#main{
+	
+	width: 95%;
+	height: 100%;
+	background-color: #F0F0F0;
+	margin: 15px auto;
+	padding: 15px;
+}
+#title{
+	text-align: center;
+	font-size: 45px;
+}
+#subTitle{
+	text-align: center;
+	font-size: 20px;
+	color: #707070;
+}
+
+#img-div{
+	width: 100%;
+	margin: 0 auto;
+	background-color: white;
+}
+#img-div #image{
+	max-width: 100%;
+	display: block;
+	width: 50%;
+	height: auto;
+	margin: 10px auto;
+	padding-top: 15px;
+}
+#img-caption{
+	text-align: center;
+	font-size: 20px;
+	margin: 10px 0;
+}
+.infoTitle{
+	font-size: 25px;
+	text-align: center;
+	margin: 5px 0;
+	
+}
+#historyText{
+	font-size: 18px;
+	width: 90%;
+	margin: 0 auto;
+	color: #363636;
+}
+#summaryText{
+	font-size: 18px;
+	width: 90%;
+	margin: 0 auto;
+	color: #363636;
+}
+#learn{
+	font-size: 25px;
+	text-align: center;
+	margin: 5px 0;
+}
