@@ -22,4 +22,4 @@
 
 ### Tribute
 
-![Tribute Page](./Tribute.png)
+![Tribute Page](./Tribute.PGN)
